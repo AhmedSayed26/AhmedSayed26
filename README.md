@@ -23,13 +23,6 @@
 
 ---
 
-- 🌱 I’m currently learning **Full Stack Web Development**
-
-- 📫 How to reach me:  
-  [Email](22ahmed23sayed24@gmail.com) *
-
----
-
 ### 📊 GitHub Stats:
 
 <p align="center">
@@ -44,12 +37,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedSayed26&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
-
-
-
 ---
 
+- 🌱 I’m currently learning **Full Stack Web Development**
 
+- 📫 How to reach me:  
+  [Email](22ahmed23sayed24@gmail.com) *
+---
 
 ### ✨ Fun Fact:
 
