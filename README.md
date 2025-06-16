@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Ahmed Sayed</h1>
-<h3 align="center">A passionate Frontend Developer</h3>
+<h1 align="left">Hi 👋, I'm Ahmed Sayed</h1>
+<h3 align="left">A passionate Frontend Developer</h3>
 
-<p align="center">
+<p align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Frontend+Developer;HTML+%7C+CSS+%7C+JS+%7C+React+%7C+Next.js;Always+learning+something+new" alt="Typing SVG" />
 </p>
 
