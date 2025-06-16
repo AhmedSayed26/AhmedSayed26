@@ -25,15 +25,15 @@
 
 ### 📊 GitHub Stats:
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=AhmedSayed26&show_icons=true&theme=default&title_color=ff7f00&icon_color=ff7f00&text_color=ffffff&bg_color=000000" alt="Ahmed's GitHub Stats" />
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=AhmedSayed26&theme=dark&hide_border=false&ring=ff7f00&fire=ff7f00&currStreakLabel=ff7f00&background=000000" alt="GitHub Streak" />
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedSayed26&layout=compact&title_color=ff7f00&text_color=ffffff&bg_color=000000" alt="Top Languages" />
 </p>
 
