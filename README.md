@@ -26,16 +26,17 @@
 ### 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AhmedSayed26&show_icons=true&theme=radical" alt="Ahmed's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AhmedSayed26&show_icons=true&theme=default&title_color=f7df1e&icon_color=f7df1e&text_color=ffffff&bg_color=000000" alt="Ahmed's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedSayed26&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AhmedSayed26&theme=dark&hide_border=false&ring=f7df1e&fire=f7df1e&currStreakLabel=f7df1e&background=000000" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedSayed26&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedSayed26&layout=compact&title_color=f7df1e&text_color=ffffff&bg_color=000000" alt="Top Languages" />
 </p>
+
 
 ---
 
