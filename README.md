@@ -34,7 +34,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedSayed26&layout=compact&title_color=f7df1e&text_color=ffffff&bg_color=000000" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedSayed26&layout=compact&title_color=ff7f00&text_color=ffffff&bg_color=000000" alt="Top Languages" />
 </p>
 
 
