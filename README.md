@@ -29,7 +29,7 @@
 
 ### 📊 GitHub Stats:
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=AhmedSayed26&show_icons=true&theme=default&title_color=ff7f00&icon_color=ff7f00&text_color=ffffff&bg_color=000000" alt="Ahmed's GitHub Stats" /> </p> <p align="left"> <img src="https://github-readme-streak-stats.herokuapp.com?user=AhmedSayed26&theme=dark&hide_border=false&ring=ff7f00&fire=ff7f00&currStreakLabel=ff7f00&background=000000" alt="GitHub Streak" /> </p> <p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedSayed26&layout=compact&title_color=ff7f00&text_color=ffffff&bg_color=000000" alt="Top Languages" /> </p> <p align="left"> <b>Most Used Libraries & Tools:</b><br> <img src="https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react" alt="React" /> <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css" alt="TailwindCSS" /> <img src="https://img.shields.io/badge/-Material%20UI-007FFF?style=for-the-badge&logo=mui" alt="Material UI" /> </p>
+<p align="left">   <img src="https://github-readme-stats.vercel.app/api?username=AhmedSayed26&show_icons=true&theme=default&title_color=ff7f00&icon_color=ff7f00&text_color=ffffff&bg_color=000000" alt="Ahmed's GitHub Stats" /> </p>  <p align="left">   <img src="https://github-readme-streak-stats.herokuapp.com?user=AhmedSayed26&theme=dark&hide_border=false&ring=ff7f00&fire=ff7f00&currStreakLabel=ff7f00&background=000000" alt="GitHub Streak" /> </p>  <p align="left">   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedSayed26&layout=compact&title_color=ff7f00&text_color=ffffff&bg_color=000000" alt="Top Languages" /> </p>
 
 
 ---
