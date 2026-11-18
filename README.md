@@ -15,7 +15,7 @@ I'm a <strong>Frontend Developer</strong> based in Cairo, Egypt 🇪🇬, with 2
 
 ## ⚡ A Few Quick Facts
 
-- 💼 Currently working as a **Frontend Developer at ICSS **.
+- 💼 Currently working as a **Frontend Developer at ICSS**.
 - 🚀 Building enterprise-level **SaaS applications** with React and Next.js.
 - 🤖 Working with **AI Agents, SSE, and real-time communication**.
 - 🧠 Experienced in **Zustand, TanStack Query, and scalable component architecture**.
