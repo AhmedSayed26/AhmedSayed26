@@ -8,7 +8,7 @@ I'm a <strong>Frontend Developer</strong> based in Cairo, Egypt 🇪🇬, with 2
 <p>
 <a href="mailto:22ahmed23sayed24@gmail.com"><img src="https://img.shields.io/badge/-Email-FF8C42?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
 <a href="https://github.com/AhmedSayed26"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
-<a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/ahmedsayed270/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
 <img align="right" width="250" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coding GIF" />
