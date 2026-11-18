@@ -2,7 +2,7 @@
 ## Hey 👋, I'm <a href="https://github.com/AhmedSayed26">Ahmed Sayed</a>
 
 <p>
-I'm a <strong>Frontend Developer</strong> based in Cairo, Egypt 🇪🇬, with 2+ years of experience building scalable web applications and enterprise SaaS platforms. Currently working at <strong>ICSS</strong>, where I build modern business solutions using React, Next.js, and TypeScript. I'm passionate about clean architecture, interactive user experiences, and AI-powered applications.
+I'm a <strong>Frontend Developer</strong> with 2+ years of experience building scalable web applications and enterprise SaaS platforms. Currently working at <strong>ICSS</strong>, where I build modern business solutions using React, Next.js, and TypeScript. I'm passionate about clean architecture, interactive user experiences, and AI-powered applications.
 </p>
 
 <p>
