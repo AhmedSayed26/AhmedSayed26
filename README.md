@@ -1,72 +1,165 @@
+&#x20;\<div align="center">
 
-## Hey 👋, I'm <a href="https://github.com/AhmedSayed26">Ahmed Sayed</a>
+\<img src="[https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:252525,100\:FF8C42&height=200&section=header&text=Ahmed%20Sayed&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer%20%7C%20React%20%7C%20Next.js&descAlignY=58&descSize=18](https://capsule-render.vercel.app/api?type=waving\&color=0:0D1117,50:252525,100\:FF8C42\&height=200\&section=header\&text=Ahmed%20Sayed\&fontSize=55\&fontColor=ffffff\&fontAlignY=38\&desc=Frontend%20Developer%20%7C%20React%20%7C%20Next.js\&descAlignY=58\&descSize=18)" width="100%" />
 
-<p>
-I'm a <strong>Frontend Developer</strong> based in Cairo, Egypt 🇪🇬, with 2+ years of experience building scalable web applications and enterprise SaaS platforms. Currently working at <strong>ICSS</strong>, where I build modern business solutions using React, Next.js, and TypeScript. I'm passionate about clean architecture, interactive user experiences, and AI-powered applications.
-</p>
+\<a href="[https://github.com/AhmedSayed26](https://github.com/AhmedSayed26)"> \<img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=FF8C42&center=true&vCenter=true&width=550&lines=Hey%2C+I](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=500\&size=20\&pause=1000\&color=FF8C42\&center=true\&vCenter=true\&width=550\&lines=Hey%2C+I)'m+Ahmed+Sayed+%F0%9F%91%8B;Frontend+Developer+%F0%9F%92%BB;Building+Scalable+Web+Applications;Crafting+Modern+User+Experiences;Exploring+AI-Powered+Applications" alt="Typing SVG" /> \</a>
 
-<p>
-<a href="mailto:22ahmed23sayed24@gmail.com"><img src="https://img.shields.io/badge/-Email-FF8C42?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
-<a href="https://github.com/AhmedSayed26"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
-<a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-</p>
+\<br/>
 
-<img align="right" width="250" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coding GIF" />
+\<a href="mailto:22ahmed23sayed24\@gmail.com">\<img src="[https://img.shields.io/badge/Email-FF8C42?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Email-FF8C42?style=for-the-badge\&logo=gmail\&logoColor=white)" />\</a>
+\<a href="[https://github.com/AhmedSayed26](https://github.com/AhmedSayed26)">\<img src="[https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-161B22?style=for-the-badge\&logo=github\&logoColor=white)" />\</a>
+\<a href="[https://www.linkedin.com/](https://www.linkedin.com/)">\<img src="[https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)" />\</a>
 
-## ⚡ A Few Quick Facts
+\</div>
 
-- 💼 Currently working as a **Frontend Developer at ICSS**.
-- 🚀 Building enterprise-level **SaaS applications** with React and Next.js.
-- 🤖 Working with **AI Agents, SSE, and real-time communication**.
-- 🧠 Experienced in **Zustand, TanStack Query, and scalable component architecture**.
-- 🌍 Building bilingual applications with **Arabic / English RTL support**.
-- 🏗️ Interested in software architecture and **Full Stack Development**.
-- 👨‍💻 Most of my projects are available on <a href="https://github.com/AhmedSayed26">GitHub</a>.
-- 🎓 Computer Science & Artificial Intelligence graduate.
+---
 
-## 🚀 Some Tools I Use
+\<img align="right" width="300" src="[https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif](https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif)" />
 
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="30" alt="HTML5" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="30" alt="CSS3" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="30" alt="JavaScript" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="30" alt="TypeScript" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="30" alt="React" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="30" alt="Next.js" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="30" alt="Redux" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="30" alt="SASS" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="30" alt="Tailwind" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="30" alt="Bootstrap" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" width="30" alt="jQuery" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30" alt="Python" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="30" alt="C++" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="30" alt="Git" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="30" alt="GitHub" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="30" alt="Docker" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="30" alt="Figma" />
-</p>
+## 👨‍💻 About Me
 
-**Other Technologies:** Zustand · TanStack Query · React Flow · Radix UI · Shadcn UI · WebSockets · STOMP · SSE · Dify · Recharts · Formik · Yup · Axios · i18next
+I'm **Ahmed Sayed**, a Frontend Developer based in Cairo, Egypt 🇪🇬.
 
-## 🏗️ Some Things I've Built
+I have 2+ years of experience building modern web applications, scalable frontend architectures, and enterprise SaaS platforms.
 
-- 🏥 **Hospital Management System** — Role-based healthcare management platform.
-- 🛍️ **Trend** — Modern e-commerce application built with Next.js and TypeScript.
-- 📊 **Dashboard** — Responsive and scalable dashboard application built with React and Vite.
+Currently working at **ICSS Perform AI**, building complex business solutions and AI-powered experiences.
 
-## 📊 GitHub Stats
+- 💼 Frontend Developer @ ICSS Perform AI
+- ⚡ Building scalable enterprise applications
+- 🤖 Integrating AI Agents and real-time systems
+- 🧩 Passionate about clean code & architecture
+- 🌍 Experienced with Arabic RTL applications
+- 🌱 Currently exploring Full Stack Development
 
-<p align="left">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=AhmedSayed26&show_icons=true&hide_border=true&theme=transparent&title_color=FF8C42&icon_color=FF8C42" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedSayed26&theme=transparent&hide_border=true&ring=FF8C42&fire=FF8C42&currStreakLabel=FF8C42" alt="GitHub Streak" />
-</p>
+\<br clear="right"/>
 
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedSayed26&layout=compact&hide_border=true&theme=transparent&title_color=FF8C42" alt="Top Languages" />
-</p>
+---
 
-<p>
-<img src="https://komarev.com/ghpvc/?username=AhmedSayed26&style=flat-square&color=FF8C42" alt="Profile Views" />
-</p>
+## ⚡ What I Work With
 
-<p>🍊 Keep building, keep learning, and keep shipping! 🚀</p>
+\<div align="center">
+
+### Frontend Development
+
+\<img src="[https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,sass,tailwind,bootstrap,jquery&theme=dark](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,sass,tailwind,bootstrap,jquery\&theme=dark)" />
+
+### State Management & UI
+
+\<img src="[https://skillicons.dev/icons?i=zustand,materialui,figma&theme=dark](https://skillicons.dev/icons?i=zustand,materialui,figma\&theme=dark)" />
+
+### Tools & Technologies
+
+\<img src="[https://skillicons.dev/icons?i=git,github,docker,python,postman,vscode,jenkins&theme=dark](https://skillicons.dev/icons?i=git,github,docker,python,postman,vscode,jenkins\&theme=dark)" />
+
+\</div>
+
+\<p align="center"> \<strong>Also experienced with:\</strong>\<br/> TanStack Query · React Flow · Radix UI · Shadcn UI · Axios · Formik · Yup · Recharts · WebSockets · STOMP · SSE · Dify · i18next \</p>
+
+---
+
+## 💼 Professional Experience
+
+\<table> \<tr> \<td width="70">
+
+\<img src="[https://img.shields.io/badge/ICSS-FF8C42?style=for-the-badge](https://img.shields.io/badge/ICSS-FF8C42?style=for-the-badge)" />
+
+\</td>
+\<td>
+
+**Frontend Developer — ICSS Perform AI**
+
+\<sub>October 2025 – Present\</sub>
+
+Developing an enterprise Strategic Performance Management SaaS platform.
+
+- Building Performance Intelligence and Strategic Execution modules.
+- Developing reusable UI architecture and interactive builders.
+- Implementing AI assistants and real-time SSE streaming.
+- Building WebSocket notifications and interactive dashboards.
+- Working with multi-tenant architecture, JWT and RBAC.
+- Supporting Arabic/English localization and RTL layouts.
+
+\</td>
+\</tr>
+\</table>
+
+---
+
+## 🚀 Featured Projects
+
+\<table>
+\<tr>
+\<td width="50%">
+
+### 🏥 Hospital Management
+
+A role-based healthcare management system with patient and doctor dashboards, appointments, and medical records.
+
+**Tech:** React · Shadcn UI · Axios
+
+\</td>
+\<td width="50%">
+
+### 🛍️ Trend
+
+A modern e-commerce application with responsive layouts, scalable components, and optimized performance.
+
+**Tech:** Next.js · TypeScript · Zustand
+
+\</td> \</tr> \<tr> \<td colspan="2">
+
+### 📊 Dashboard Application
+
+A scalable and responsive dashboard boilerplate built with React and Vite, featuring modular architecture and optimized development workflows.
+
+**Tech:** React · Vite · JavaScript
+
+\</td>
+\</tr>
+\</table>
+
+---
+
+## 📊 GitHub Overview
+
+\<div align="center">
+
+\<img width="49%" src="[https://github-readme-stats.vercel.app/api?username=AhmedSayed26&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF8C42&icon_color=FF8C42&text_color=FFFFFF&rank_icon=github](https://github-readme-stats.vercel.app/api?username=AhmedSayed26\&show_icons=true\&hide_border=true\&bg_color=0D1117\&title_color=FF8C42\&icon_color=FF8C42\&text_color=FFFFFF\&rank_icon=github)" />
+
+\<img width="49%" src="[https://github-readme-streak-stats.herokuapp.com/?user=AhmedSayed26&theme=dark&hide_border=true&background=0D1117&ring=FF8C42&fire=FF8C42&currStreakLabel=FF8C42](https://github-readme-streak-stats.herokuapp.com/?user=AhmedSayed26\&theme=dark\&hide_border=true\&background=0D1117\&ring=FF8C42\&fire=FF8C42\&currStreakLabel=FF8C42)" />
+
+\<br/>
+
+\<img width="55%" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedSayed26&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF8C42&text_color=FFFFFF](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedSayed26\&layout=compact\&hide_border=true\&bg_color=0D1117\&title_color=FF8C42\&text_color=FFFFFF)" />
+
+\</div>
+
+---
+
+## 🎓 Education & Certifications
+
+- 🎓 B.Sc. Computer Science & Artificial Intelligence — Benha University
+- 🏅 Samsung Innovation Campus
+- 🏅 Frontend Development Using Angular — ITI
+
+---
+
+\<div align="center">
+
+### 🤝 Let's Build Something Amazing!
+
+\<a href="mailto:22ahmed23sayed24\@gmail.com">
+\<img src="[https://img.shields.io/badge/Let](https://img.shields.io/badge/Let)'s%20Talk-FF8C42?style=for-the-badge&logo=gmail&logoColor=white" />
+\</a>
+
+\<br/>\<br/>
+
+\<img src="[https://komarev.com/ghpvc/?username=AhmedSayed26&label=Profile%20Views&color=FF8C42&style=flat-square](https://komarev.com/ghpvc/?username=AhmedSayed26\&label=Profile%20Views\&color=FF8C42\&style=flat-square)" />
+
+\<br/>
+
+\<i>"Great software is built with passion, patience, and clean code."\</i>
+
+\<img src="[https://capsule-render.vercel.app/api?type=waving&color=0\:FF8C42,100:0D1117&height=110&section=footer](https://capsule-render.vercel.app/api?type=waving\&color=0\:FF8C42,100:0D1117\&height=110\&section=footer)" width="100%" />
+
+\</div>
