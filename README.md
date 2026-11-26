@@ -69,4 +69,4 @@ I'm a <strong>Frontend Developer</strong> with 2+ years of experience building s
 <img src="https://komarev.com/ghpvc/?username=AhmedSayed26&style=flat-square&color=FF8C42" alt="Profile Views" />
 </p>
 
-<p>🍊 Keep building, keep learning, and keep shipping! 🚀</p>
+
